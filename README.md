@@ -12,3 +12,6 @@ Vous pouvez installer les modules nécéssaires en tapant cette commande
 ```bash
 pip3 install -r requirements.txt
 ```
+
+### Document Word
+Pour que cela focntionne il faut fermer le document word a chaque fois que vous voulez faire une modfication, si celui ci est ouvert, le code renverra une erreur.
